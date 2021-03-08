@@ -1,0 +1,51 @@
+.header {
+    font-weight: 200;
+}
+
+h4 {
+    margin-bottom: 2rem;
+}
+
+.tech-row {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.tech-header {
+    color: #808080;
+}
+
+.p-medium {
+    font-weight: 300;
+}
+
+.strong {
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.medium {
+    font-weight: 300;
+    white-space: nowrap;
+}
+
+.light {
+    font-weight: 200;
+    white-space: nowrap;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
